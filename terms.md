@@ -12,211 +12,159 @@ title: Nutzungsbedingungen
 
 ## 1. Geltungsbereich
 
-Diese Nutzungsbedingungen gelten für die iOS-App «MedImpuls» (nachfolgend «App»), betrieben von Flamur Rustemi, Basel, Schweiz (nachfolgend «Anbieter»).
+Diese Nutzungsbedingungen gelten für die iOS-App «MedImpuls», betrieben von Flamur Rustemi, Basel, Schweiz.
 
 Mit der Nutzung der App akzeptieren Sie diese Bedingungen vollumfänglich.
 
 ---
 
-## 2. Beschreibung des Dienstes
+## 2. Art des Dienstes
 
-MedImpuls ist ein **Informationsdienst für medizinisches Fachpersonal**. Die App bietet:
-- Kuratierte Zusammenfassungen medizinischer Fachinformationen
-- Tägliche Briefings aus verschiedenen Quellen
-- Audio-Wiedergabe der Inhalte
+**MedImpuls ist ein reiner Informationsdienst.**
+
+Die App ist **keine Medizinproduktesoftware** im Sinne der Medizinprodukteverordnung (MepV) oder der EU-MDR. Sie dient ausschliesslich der allgemeinen Information.
 
 ---
 
-## 3. Zielgruppe und Nutzungsberechtigung
+## 3. Zielgruppe
 
-Die App richtet sich **ausschliesslich an**:
+Die App richtet sich an:
 - Ärztinnen und Ärzte
 - Medizinisches Fachpersonal
 - Personen in medizinischer Ausbildung
 
 **Mindestalter:** 18 Jahre
 
-Mit der Nutzung bestätigen Sie, dass Sie zur Zielgruppe gehören.
-
 ---
 
-## ⚠️ 4. WICHTIGER HAFTUNGSAUSSCHLUSS
+## ⚠️ 4. VOLLSTÄNDIGER HAFTUNGSAUSSCHLUSS
 
 ### 4.1 Keine medizinische Beratung
 
-**DIE INHALTE DER APP STELLEN KEINE MEDIZINISCHE BERATUNG DAR.**
+**DIE APP IST KEIN MEDIZINPRODUKT UND BIETET KEINE MEDIZINISCHE BERATUNG.**
 
-Die App bietet **allgemeine Fachinformationen** und:
-- Ersetzt **nicht** die eigene klinische Beurteilung
-- Ersetzt **nicht** die Konsultation von Originalquellen
-- Ersetzt **nicht** die Beratung durch Fachkollegen
-- Stellt **keine** individuellen Therapieempfehlungen dar
+Die Inhalte:
+- Stellen **keine** Diagnose- oder Therapieempfehlungen dar
+- Ersetzen **nicht** die eigene ärztliche Beurteilung
+- Ersetzen **nicht** die Konsultation von Fachliteratur
+- Sind **nicht** für klinische Entscheidungen bestimmt
 
-### 4.2 Keine Garantie für Richtigkeit
+### 4.2 Keine Gewährleistung
 
-**Der Anbieter übernimmt keine Gewähr für:**
-- Die Richtigkeit der Inhalte
-- Die Vollständigkeit der Informationen
-- Die Aktualität der Daten
-- Die Eignung für bestimmte klinische Situationen
+**Der Anbieter übernimmt keinerlei Gewähr für:**
+- Richtigkeit, Vollständigkeit oder Aktualität der Inhalte
+- Eignung für irgendeinen Zweck
+- Fehlerfreiheit der App oder der Informationen
 
-Trotz sorgfältiger Prüfung können die Inhalte Fehler, Ungenauigkeiten oder Auslassungen enthalten.
+Die Inhalte können Fehler, Ungenauigkeiten und Auslassungen enthalten.
 
-### 4.3 Eigenverantwortung
+### 4.3 Vollständiger Haftungsausschluss
 
-**Sie sind allein verantwortlich für:**
-- Die Überprüfung aller Informationen anhand von Originalquellen
-- Therapieentscheidungen in Ihrer klinischen Praxis
-- Die Anwendung der Informationen auf konkrete Patientenfälle
+**DER ANBIETER HAFTET NICHT.**
 
-### 4.4 Keine Arzt-Patienten-Beziehung
+Der Anbieter schliesst jegliche Haftung aus für:
+- Direkte, indirekte, zufällige oder Folgeschäden jeder Art
+- Schäden aus der Nutzung oder Unmöglichkeit der Nutzung
+- Schäden durch Inhalte, Fehler oder Auslassungen
+- Schäden durch Behandlungsentscheidungen
+- Schäden an Dritten, einschliesslich Patienten
+- Entgangenen Gewinn oder sonstige Vermögensschäden
+- Datenverlust oder Systemausfälle
 
-Durch die Nutzung der App entsteht **kein Behandlungsverhältnis** zwischen dem Anbieter und Ihnen oder Ihren Patienten.
+**Dieser Haftungsausschluss gilt unabhängig von der Rechtsgrundlage (Vertrag, Delikt, Gefährdung oder andere).**
 
----
+### 4.4 Eigenverantwortung
 
-## 5. Haftungsbeschränkung
+Die Nutzung erfolgt auf **eigenes Risiko**. Sie sind allein verantwortlich für:
+- Alle Entscheidungen, die Sie auf Basis der Inhalte treffen
+- Die Überprüfung aller Informationen
+- Ihre klinische Praxis
 
-### 5.1 Ausschluss der Haftung
+### 4.5 Kein Behandlungsverhältnis
 
-**Der Anbieter haftet nicht für:**
-
-- Direkte oder indirekte Schäden aus der Nutzung der App
-- Schäden durch fehlerhafte oder unvollständige Informationen
-- Schäden durch Behandlungsentscheidungen auf Basis der App-Inhalte
-- Schäden durch Ausfälle, Unterbrechungen oder technische Störungen
-- Entgangenen Gewinn oder andere Vermögensschäden
-- Schäden an Patienten
-
-### 5.2 Maximale Haftung
-
-Soweit eine Haftung nicht ausgeschlossen werden kann, ist diese **beschränkt auf:**
-- Bei kostenlosen Diensten: CHF 0 (null)
-- Bei kostenpflichtigen Abonnements: Die Höhe der im letzten Jahr bezahlten Abonnementgebühren, maximal CHF 100
-
-### 5.3 Ausnahmen
-
-Die Haftungsbeschränkung gilt nicht für:
-- Vorsätzlich verursachte Schäden
-- Grobe Fahrlässigkeit des Anbieters persönlich
+Durch die Nutzung entsteht **kein Behandlungsverhältnis** zwischen dem Anbieter und Nutzern oder deren Patienten.
 
 ---
 
-## 6. Inhalte und Quellen
+## 5. Bereitstellung «wie besehen»
 
-### 6.1 Herkunft der Inhalte
-
-Die Inhalte basieren auf:
-- Öffentlich zugänglichen wissenschaftlichen Publikationen
-- Behördlichen Mitteilungen (z.B. Swissmedic, BAG)
-- Medizinischen Fachportalen
-
-### 6.2 KI-generierte Zusammenfassungen
-
-Teile der Inhalte werden mit Unterstützung von **Künstlicher Intelligenz** erstellt:
-- Zusammenfassungen können Fehler enthalten
-- Die Originalquellen sind immer zu konsultieren
-- Quellenangaben werden bereitgestellt
-
-### 6.3 Keine redaktionelle Verantwortung
-
-Der Anbieter prüft Inhalte automatisiert, übernimmt jedoch **keine redaktionelle Verantwortung** für die Richtigkeit im Sinne einer Fachpublikation.
+Die App wird **«wie besehen» («as is»)** und **«wie verfügbar» («as available»)** bereitgestellt, ohne jegliche ausdrückliche oder stillschweigende Zusicherungen oder Gewährleistungen.
 
 ---
 
-## 7. Nutzungsrechte und -pflichten
+## 6. KI-generierte Inhalte
 
-### 7.1 Erlaubte Nutzung
+Teile der Inhalte werden mit **Künstlicher Intelligenz** erstellt.
 
-Sie dürfen die App:
-- Für Ihre persönliche Fortbildung nutzen
-- Als Ausgangspunkt für weitere Recherchen verwenden
-- Inhalte für eigene Notizen speichern
+- KI-Systeme können fehlerhaft sein
+- Zusammenfassungen können ungenau sein
+- Originalquellen sind zwingend zu prüfen
 
-### 7.2 Verbotene Nutzung
+Der Anbieter übernimmt keine Verantwortung für KI-generierte Inhalte.
 
-Sie dürfen **nicht**:
-- Inhalte ohne Quellenprüfung direkt für Behandlungen übernehmen
-- Die App für kommerzielle Zwecke weitervertreiben
-- Die App für Patientenberatung ohne eigene Prüfung einsetzen
-- Die Sicherheitsmassnahmen der App umgehen
+---
+
+## 7. Nutzungsrechte
+
+### 7.1 Erlaubt
+- Persönliche Information und Fortbildung
+- Ausgangspunkt für eigene Recherchen
+
+### 7.2 Verboten
+- Nutzung für klinische Entscheidungen ohne eigene Prüfung
+- Kommerzielle Weiterverteilung
+- Umgehung technischer Schutzmassnahmen
 
 ---
 
 ## 8. Verfügbarkeit
 
-### 8.1 Keine Garantie
-
-Der Anbieter garantiert **keine** ununterbrochene Verfügbarkeit. Die App wird «wie besehen» («as is») bereitgestellt.
-
-### 8.2 Änderungen und Einstellung
-
-Der Anbieter behält sich vor:
-- Funktionen jederzeit zu ändern
-- Den Dienst vorübergehend oder dauerhaft einzustellen
-- Benutzerkonten bei Verstössen zu sperren
+Keine Garantie auf Verfügbarkeit. Der Anbieter kann den Dienst jederzeit ändern oder einstellen.
 
 ---
 
-## 9. Geistiges Eigentum
+## 9. Datenschutz
 
-### 9.1 Rechte des Anbieters
-
-Die App, ihr Design und die eigenen Inhalte sind urheberrechtlich geschützt.
-
-### 9.2 Rechte Dritter
-
-Zusammengefasste Inhalte unterliegen den Rechten der jeweiligen Originalquellen. Die Zusammenfassungen erfolgen zu Informationszwecken.
+Siehe [Datenschutzerklärung](./).
 
 ---
 
-## 10. Datenschutz
+## 10. Änderungen
 
-Die Bearbeitung personenbezogener Daten ist in der separaten [Datenschutzerklärung](./) geregelt.
-
----
-
-## 11. Änderungen der Nutzungsbedingungen
-
-Der Anbieter kann diese Bedingungen jederzeit ändern. Bei wesentlichen Änderungen werden Sie in der App informiert. Die weitere Nutzung nach einer Änderung gilt als Zustimmung.
+Diese Bedingungen können jederzeit geändert werden. Fortgesetzte Nutzung gilt als Zustimmung.
 
 ---
 
-## 12. Anwendbares Recht und Gerichtsstand
+## 11. Anwendbares Recht und Gerichtsstand
 
-### 12.1 Anwendbares Recht
+**Anwendbares Recht:** Schweizer Recht (unter Ausschluss von Kollisionsnormen und UN-Kaufrecht)
 
-Es gilt **ausschliesslich Schweizer Recht** unter Ausschluss des Kollisionsrechts und des UN-Kaufrechts.
-
-### 12.2 Gerichtsstand
-
-Ausschliesslicher Gerichtsstand ist **Basel-Stadt, Schweiz**.
+**Gerichtsstand:** Ausschliesslich Basel-Stadt, Schweiz
 
 ---
 
-## 13. Salvatorische Klausel
+## 12. Salvatorische Klausel
 
-Sollten einzelne Bestimmungen unwirksam sein, bleiben die übrigen Bestimmungen gültig. Unwirksame Bestimmungen werden durch wirksame ersetzt, die dem wirtschaftlichen Zweck am nächsten kommen.
-
----
-
-## 14. Kontakt
-
-**Flamur Rustemi**
-Basel, Schweiz
-E-Mail: kontakt@medimpuls.ch
+Bei Unwirksamkeit einzelner Bestimmungen bleiben die übrigen gültig.
 
 ---
 
-## Zusammenfassung für Eilige
+## 13. Kontakt
 
-| Thema | Kernaussage |
-|-------|-------------|
-| **Was ist MedImpuls?** | Informationsdienst, keine Beratung |
-| **Für wen?** | Nur medizinisches Fachpersonal |
-| **Haftung?** | Keine – Sie sind für Ihre Entscheidungen verantwortlich |
-| **Fehler möglich?** | Ja – immer Originalquellen prüfen |
-| **Recht?** | Schweizer Recht, Gerichtsstand Basel |
+**E-Mail:** kontakt@medimpuls.ch
+
+---
+
+## Zusammenfassung
+
+| | |
+|---|---|
+| **Was ist MedImpuls?** | Reiner Informationsdienst |
+| **Medizinprodukt?** | **NEIN** |
+| **Medizinische Beratung?** | **NEIN** |
+| **Haftung des Anbieters?** | **KEINE** |
+| **Verantwortung?** | Liegt beim Nutzer |
+| **Recht?** | Schweiz, Gerichtsstand Basel |
 
 ---
 
